@@ -60,15 +60,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Backend_API",
+              "Title": "Backend_API.csproj",
               "DocumentMoniker": "D:\\PlacmentPreparation\\Backend\\Backend_API\\Backend_API.csproj",
               "RelativeDocumentMoniker": "Backend_API.csproj",
               "ToolTip": "D:\\PlacmentPreparation\\Backend\\Backend_API\\Backend_API.csproj",
               "RelativeToolTip": "Backend_API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-24T05:40:29.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T05:40:29.072Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Models\\Ticket.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAmwBsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T04:38:12.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T04:38:12.035Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T03:51:35.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T03:51:35.621Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T03:36:08.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T03:36:08.236Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T03:03:20.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T03:03:20.215Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-24T03:02:25.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T03:02:25.83Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Models\\SmartDeskDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T02:58:30.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T02:58:30.159Z"
             }
           ]
         }
